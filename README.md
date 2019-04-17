@@ -1,1 +1,1 @@
-# OpenSpatialComputingSecurityProject
+# Open Spatial Computing Security Project
